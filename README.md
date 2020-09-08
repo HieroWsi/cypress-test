@@ -7,3 +7,7 @@ Example automation tests in Cypress tool
 1. Step - Install node_modules
 
 - npm install
+
+2. Step - Run test
+
+- npm run test
