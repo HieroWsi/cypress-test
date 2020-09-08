@@ -1,0 +1,11 @@
+{
+  "name": "cypress-tests",
+  "version": "1.0.0",
+  "description": "Example automation tests in Cypress tool",
+  "scripts": {
+    "test": ""
+  },
+  "devDependencies": {
+    "cypress": "5.1.0"
+  }
+}
